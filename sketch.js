@@ -17,7 +17,7 @@ var palette     = [];   // our color palette for the fire
 function setup() {
   
   colorMode(RGB);
-  createCanvas(displayWidth, displayHeight-75);
+  createCanvas(displayWidth, displayHeight);
   //createCanvas(800, 600);
   
   // 2D Fire: init size of fire
